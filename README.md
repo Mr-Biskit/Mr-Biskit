@@ -7,9 +7,7 @@
 
 <h1 style="font-family: 'Mona Sans', sans-serif" align="center">Hey :metal: I'm, <br/> Gabe || Mr Biskit</h1>
 <div align="center">
-  <a href="https://www.mrbiskit.xyz/">
-    <button>Check out my portfolio</button>
-  </a>
+  [Check out my portfolio!](https://www.mrbiskit.xyz/)
 </div>
 <h3 align="center">I <br/> :heart: </h3>
 <p align="center">
