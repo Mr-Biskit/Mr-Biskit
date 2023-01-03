@@ -2,7 +2,7 @@
   <link rel="stylesheet" href="styles/fonts.css">
 </head>
 <p align="center">
-  <img src="https://media.giphy.com/media/W8ntbAJ1YUlwDW02IJ/giphy.gif" height="400px" width="100%">
+  <img src="https://media.giphy.com/media/W8ntbAJ1YUlwDW02IJ/giphy.gif" height="300px" width="100%">
 </p>
 
 <h1 style="font-family: 'Mona Sans', sans-serif" align="center">Hey :metal: I'm, <br/> Gabe || Mr Biskit</h1>
