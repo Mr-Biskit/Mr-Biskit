@@ -5,14 +5,16 @@
   <img src="https://media.giphy.com/media/W8ntbAJ1YUlwDW02IJ/giphy.gif" height="400px" width="100%">
 </p>
 
-<h1 style="font-family: 'Mona Sans', sans-serif" align="center">Hi 👋, I'm Gabe || Mr Biskit</h1>
+<h1 style="font-family: 'Mona Sans', sans-serif" align="center">Hey :metal: I'm, <br/> Gabe || Mr Biskit</h1>
 <div align="center">
-  <a href="https://yourwebsite.com/portfolio">
+  <a href="www.mrbiskit.xyz">
     <button>Check out my portfolio</button>
   </a>
 </div>
 <h3 align="center">I <br/> :heart: </h3>
-![Alt text](public/image.png)
+<p align="center">
+  <img src="/public/Loves.png" height="200px" width="100%">
+</p>
 
 <p align="left"> <a href="https://twitter.com/mr__biskit" target="blank"><img src="https://img.shields.io/twitter/follow/mr__biskit?logo=twitter&style=for-the-badge" alt="mr__biskit" /></a> </p>
 
