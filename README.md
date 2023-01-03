@@ -6,9 +6,7 @@
 </p>
 
 <h1 style="font-family: 'Mona Sans', sans-serif" align="center">Hey :metal: I'm, <br/> Gabe || Mr Biskit</h1>
-<div align="center">
-  [Check out my portfolio!](https://www.mrbiskit.xyz/)
-</div>
+
 <h3 align="center">I <br/> :heart: </h3>
 <p align="center">
   <img src="/public/Loves.png" height="200px" width="100%">
