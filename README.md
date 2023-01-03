@@ -11,7 +11,8 @@
     <button>Check out my portfolio</button>
   </a>
 </div>
-<h3 align="center">A eccentric Fullstack Developer</h3>
+<h3 align="center">I <br/> :heart: </h3>
+![Alt text](public/image.png)
 
 <p align="left"> <a href="https://twitter.com/mr__biskit" target="blank"><img src="https://img.shields.io/twitter/follow/mr__biskit?logo=twitter&style=for-the-badge" alt="mr__biskit" /></a> </p>
 
