@@ -18,9 +18,7 @@
 
 - 🌱 I’m currently learning **Foundry**
 
-- 👯 I’m looking to collaborate on **Anything Web3**
-
-- 👨‍💻 All of my projects are available at [www.mrbiskit.xyz](www.mrbiskit.xyz)
+- 👯 I’m looking to collaborate on **Anything Web3 or Frontend design**
 
 - 💬 Ask me about **Solidity, Blockchain, Web 3**
 
