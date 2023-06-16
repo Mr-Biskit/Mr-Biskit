@@ -14,15 +14,15 @@
 
 <p align="center"> <a href="https://twitter.com/mr__biskit" target="blank"><img src="https://img.shields.io/twitter/follow/mr__biskit?logo=twitter&style=for-the-badge" alt="mr__biskit" /></a> </p>
 
-- 🔭 I’m currently working on [Loyalty Leaf](https://github.com/Mr-Biskit/loyalty-leaf-backend)
+- 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning **Foundry**
+- 🌱 I’m currently learning Cryptography Techniques
 
-- 👯 I’m looking to collaborate on **Anything Web3 or Frontend design**
-
-- 💬 Ask me about **Solidity, Blockchain, Web 3**
+- 💬 Ask me about **Frontend, Backend, Design, Blockchain **
 
 - 📫 How to reach me **dev@mrbiskit.xyz**
+
+- Visit my portfolio [Biskit Boulder](www.mrbiskit.xyz)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
