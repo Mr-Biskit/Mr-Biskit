@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **dev@mrbiskit.xyz**
 
-- Visit my portfolio [Biskit Boulder](www.mrbiskit.xyz)
+- Visit my portfolio [Biskit Boulder](https://www.mrbiskit.xyz/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
