@@ -5,7 +5,7 @@
   <img src="/public/statue.png" height="500px" width="50%">
 </p>
 
-<h1 style="font-family: 'Mona Sans', sans-serif" align="center">Hey :metal: I'm, <br/> Gabe || Mr Biskit</h1>
+<h1 style="font-family: 'Mona Sans', sans-serif" align="center">Hey :metal: I'm, <br/> Gabriel || Mr Biskit</h1>
 
 <h3 align="center">I <br/> :heart: </h3>
 <p align="center">
@@ -14,9 +14,9 @@
 
 <p align="center"> <a href="https://twitter.com/mr__biskit" target="blank"><img src="https://img.shields.io/twitter/follow/mr__biskit?logo=twitter&style=for-the-badge" alt="mr__biskit" /></a> </p>
 
-- 🔭 I’m currently working on **Honing my Skills**
+- 🔭 I’m currently working on **Hemora: A Telemedice solution for Hematology**
 
-- 🌱 I’m currently learning Cryptography Techniques
+- 🌱 I’m currently learning Motion Design Techniques
 
 - 💬 Ask me about **Frontend, Backend, Design, Blockchain **
 
