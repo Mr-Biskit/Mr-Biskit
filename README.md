@@ -1,9 +1,7 @@
 <head>
   <link rel="stylesheet" href="styles/fonts.css">
 </head>
-<p align="center">
-  <img src="/public/statue.png" height="500px" width="50%">
-</p>
+
 
 <h1 style="font-family: 'Mona Sans', sans-serif" align="center">Hey :metal: I'm, <br/> Gabriel || Mr Biskit</h1>
 
