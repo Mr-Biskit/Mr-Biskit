@@ -6,9 +6,7 @@
 <h1 style="font-family: 'Mona Sans', sans-serif" align="center">Hey :metal: I'm, <br/> Gabriel || Mr Biskit</h1>
 
 <h3 align="center">I <br/> :heart: </h3>
-<p align="center">
-  <img src="/public/loves.png" height="300px" width="100%">
-</p>
+<p
 
 <p align="center"> <a href="https://twitter.com/mr__biskit" target="blank"><img src="https://img.shields.io/twitter/follow/mr__biskit?logo=twitter&style=for-the-badge" alt="mr__biskit" /></a> </p>
 
