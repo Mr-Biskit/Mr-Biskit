@@ -5,8 +5,9 @@
 
 <h1 style="font-family: 'Mona Sans', sans-serif" align="center">Hey :metal: I'm, <br/> Gabriel || Mr Biskit</h1>
 
-<img src="public/Statue-Design1-ezgif.com-optimize.gif" alt="Alt text for your GIF" width="600" height="746">
-
+<p align="center">
+<img src="public/Statue-Design1-ezgif.com-optimize.gif" alt="Alt text for your GIF" width="600" height="500">
+</p>
 
 
 
