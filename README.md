@@ -2,7 +2,7 @@
   <link rel="stylesheet" href="styles/fonts.css">
 </head>
 
-<h1 style="font-family: 'Mona Sans', sans-serif" align="center">Hey :metal: I'm, <br/> Gabriel || Mr Biskit!</h1>
+<h1 style="font-family: 'Mona Sans', sans-serif" align="center">Hey :metal: I'm, <br/> Gabriel || Mr Biskit</h1>
 
 <p align="center">
 <img src="public/Statue-Design1-ezgif.com-optimize.gif" alt="Statue" width="600" height="500">
